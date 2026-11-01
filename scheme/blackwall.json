@@ -1,0 +1,23 @@
+{
+  "name": "Blackwall",
+  "background": "#1b1617",
+  "foreground": "#cbb5b0",
+  "cursorColor": "#e6424f",
+  "selectionBackground": "#5c2a31",
+  "black": "#2a181b",
+  "red": "#e6424f",
+  "green": "#86a985",
+  "yellow": "#cfa45f",
+  "blue": "#8fa7bd",
+  "purple": "#b65a7d",
+  "cyan": "#a9c2bf",
+  "white": "#cbb5b0",
+  "brightBlack": "#9a7f7b",
+  "brightRed": "#ff5466",
+  "brightGreen": "#a3c2a2",
+  "brightYellow": "#ddb87a",
+  "brightBlue": "#aec1d3",
+  "brightPurple": "#c97896",
+  "brightCyan": "#c4d6d4",
+  "brightWhite": "#e6d6d2"
+}
